@@ -35,10 +35,20 @@ Let´s go step by step.
 
 *_App modes_*
   Karmind application allows to execute three different modes to extract information from your vehicle through the OBD interface. In case you are interested in getting deeper knowledge about the basics of On Board Diagnostics protocols, take a look at ISO-15031-5 and ISO-15031-6 international standards.
+  While executing any mode, an output file is generated and saved to disk, so as to upload it afterwards to your private space on www.karmind.com. Available modes are described hereafter.
 
-  *Check*
-  *Sampler*
-  *Delete*
+*_ Check _*
+  * In a minute, the app get a snapshot of most common Parameter IDs (PIDs)of tyour vehicle, including invocation of service modes $03 and $07 (pending and stored Diagnostic Trouble Codes, DTCs), so as to look for any issue regarding electronics.
+  After getting the info, it may be uploaded to your personal space on www.karmind.com, to have it stored and look trough any DTC may raise thanks to Karmind DTC lookup facilitie.
+
+*_ Delete _*
+  * If any issue detected in previous mode causing the Malfunction Indicator Lamp (MIL) to switch on, or any other DTC present, it may be cleaned invoking this operation mode. Take into account that if any issue were the reason for DTCs to raise, it must be fixed or DTCs will show up again later.
+  Of course, this action is recorded into a file as well and may be stored on your personal space on www.karmind.com.
+
+*_ Sampler _*
+  * This mode allows to sample some cool parameters, such as RPM, throttle position, speed and others while driving. After getting that , the data it may be uploaded to your personal space on www.karmind.com, to have it stored and review some awesome performance graphics.
+
+
 
 Be aware of the fact that this app was made with extremely limited resources, and therefore could only be checked against a few brand cars. Thus, it is quite likely to fail while testing against some kind of vehicles. 
 
