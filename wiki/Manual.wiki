@@ -34,8 +34,8 @@ Let´s go step by step.
   _Not following earlier requirements will lead to Karmind app malfunction and even crash._
 
 *_App modes_*
-  *Karmind application allows to execute three different modes to extract information from your vehicle through the OBD interface. In case you are interested in getting deeper knowledge about the basics of On Board Diagnostics protocols, take a look at ISO-15031-5 and ISO-15031-6 international standards.*
-  *While executing any mode, an output file is generated and saved to disk, so as to upload it afterwards to your private space on www.karmind.com. Available modes are described hereafter.*
+  Karmind application allows to execute three different modes to extract information from your vehicle through the OBD interface. In case you are interested in getting deeper knowledge about the basics of On Board Diagnostics protocols, take a look at ISO-15031-5 and ISO-15031-6 international standards.
+  While executing any mode, an output file is generated and saved to disk, so as to upload it afterwards to your private space on www.karmind.com. Available modes are described hereafter.
 
 _Check _
   * In a minute, the app get a snapshot of most common Parameter IDs (PIDs)of tyour vehicle, including invocation of service modes $03 and $07 (pending and stored Diagnostic Trouble Codes, DTCs), so as to look for any issue regarding electronics.
