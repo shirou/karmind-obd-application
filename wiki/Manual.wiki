@@ -7,6 +7,8 @@ A quick-guide for the app will be described below.
 
 *Provided with autoinstall, this GUI application allows through OBD (On Board Diagnostics) interface perform checking, clearing and sampling of a few electronic parameters in a given vehicle. With logging features included, output files of any action previously executed may be uploaded to your personal space in [http://www.karmind.com karmind.com] in order to have it stored and get it reviewed at any time.*
 
+*As interface between this software and the vehicle, an ELM327 controller is needed. It may be purchased in many online stores on the Internet. Only USB cable model has been tested successfully.*
+
 *SO supported: Windows, Unix.*
 
 For further information about what we are working on currently, check [http://www.karmind.com karmind.com].
