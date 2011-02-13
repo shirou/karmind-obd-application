@@ -9,14 +9,17 @@ Provided with autoinstall, this GUI application allows through OBD (On Board Dia
 
 For further information about what we are working on currently, check www.karmind.com
 
-_*Disclaimer* This is free software. If source code is not modified, there is no way at all of leading to harm a vehicle. Anyway, there is absolutely no warranty for any action performed by the user._
+_*Disclaimer* This is free software. If source code is not modified, there is no way at all of leading to harm a vehicle. Anyway, there is absolutely no warranty for any action performed by the user of the provided software._
 
 = Details =
 
 Let´s go step by step.
 
 *_SVN checkout_*
-  * Perform a checkout from the SVN in Downloads tab, and install the app. No prerequisites needed. Further instructions about installation.
+  * Perform a checkout from the SVN in Downloads tab, in order to install the app. 
+
+*_Installation_*
+  * No prerequisites needed. Further instructions about setup.
 
 *_Execute application_*
   * Being built.
