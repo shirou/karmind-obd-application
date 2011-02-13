@@ -5,11 +5,11 @@
 
 A quick-guide for the app will be described below.
 
-*Provided with autoinstall, this GUI application allows through OBD (On Board Diagnostics) interface perform checking, clearing and sampling of a few electronic parameters in a given vehicle. With logging facilites included, output files of any action previously executed may be uploaded to your personal space in www.karmind.com in order to have it stored and get it reviewed at any time.*
+*Provided with autoinstall, this GUI application allows through OBD (On Board Diagnostics) interface perform checking, clearing and sampling of a few electronic parameters in a given vehicle. With logging features included, output files of any action previously executed may be uploaded to your personal space in [http://www.karmind.com karmind.com] in order to have it stored and get it reviewed at any time.*
 
 *SO supported: Windows, Unix.*
 
-For further information about what we are working on currently, check www.karmind.com
+For further information about what we are working on currently, check [http://www.karmind.com karmind.com].
 
 _*Disclaimer* This is free software. If source code is not modified, there is no way at all of leading to harm a vehicle. Anyway, there is absolutely no warranty for any action performed by the user of the provided software._
 
@@ -26,7 +26,7 @@ Let´s go step by step.
 *_Execute application_*
   * Assuming you have followed the instructions above, the karmind app is already installed in your computer, on the location you selected during the installation process. Thus, you may launch the app from your start menu, browsing to the karmind app and clicking on the executable.
 
-  * At this point, Karmind app window raises, with three available options to perform. Before executing any task, following requirements are needed:
+  * At this point, Karmind app GUI raises, with its three available options. Before executing any task, following requirements are needed:
   # The ELM327 unit you will use with Karmind software altogheter, must have been installed and tested previously in the same computer as Karmind app.
   # The ELM 327 hardware has to be connected in both sides, the vehicle and the computer.
   # For some car brands, the car engine must be started.
@@ -35,30 +35,30 @@ Let´s go step by step.
 
 *_App modes_*
   Karmind application allows to execute three different modes to extract information from your vehicle through the OBD interface. In case you are interested in getting deeper knowledge about the basics of On Board Diagnostics protocols, take a look at ISO-15031-5 and ISO-15031-6 international standards.
-  While executing any mode, an output file is generated and saved to disk, so as to upload it afterwards to your private space on www.karmind.com. Available modes are described hereafter.
+  While executing any mode, an output file is generated and saved to disk, so as to upload it afterwards to your private space on [http://www.karmind.com karmind.com]. Available modes are described hereafter.
 
 _Check _
-  * In a minute, the app get a snapshot of most common Parameter IDs (PIDs)of tyour vehicle, including invocation of service modes $03 and $07 (pending and stored Diagnostic Trouble Codes, DTCs), so as to look for any issue regarding electronics.
-  After getting the info, it may be uploaded to your personal space on www.karmind.com, to have it stored and look trough any DTC may raise thanks to Karmind DTC lookup facilitie.
+  * In a minute, the app get a snapshot of most common Parameter IDs (PIDs) of your vehicle, including invocation of service modes $03 and $07 (pending and stored Diagnostic Trouble Codes, DTCs), so as to look for any issue regarding electronics.
+  After getting the info, it may be uploaded to your personal space on [http://www.karmind.com karmind.com], to have it stored and look trough any DTC may raise thanks to Karmind DTC lookup facilitie.
 
 _Delete_
   * If any issue detected in previous mode causing the Malfunction Indicator Lamp (MIL) to switch on, or any other DTC present, it may be cleaned invoking this operation mode. Take into account that if any issue were the reason for DTCs to raise, it must be fixed or DTCs will show up again later.
-  Of course, this action is recorded into a file as well and may be stored on your personal space on www.karmind.com.
+  Of course, this action is recorded into a file as well and may be stored on your personal space on [http://www.karmind.com karmind.com].
 
 _Sampler_
-  * This mode allows to sample some cool parameters, such as RPM, throttle position, speed and others while driving. After getting that , the data it may be uploaded to your personal space on www.karmind.com, to have it stored and review some awesome performance graphics.
+  * This mode allows to sample some cool electronic parameters, such as RPM, throttle position, speed and others while driving. After getting that, the data may be uploaded to your personal space on [http://www.karmind.com karmind.com], to have it stored and plot some awesome performance graphics.
 
 
 *_Tips_*
 
-If the app is not able to open the connection with the car through ELM-327, perhaps the polling method to get the ELM port is not working properly on your device. If so, set the variable comport in the {{{[elm]}}} section of the file elm.ini (located on the installation path) to the appropriate value.
+If the app is not able to open the connection with the car through ELM-327, perhaps the polling method to get the ELM port is not working properly on your device. If so, set the variable comport in the elm section of the file elm.ini (located on the installation path) to the appropriate value.
 
-The application has a logging feature. To enable it, go to elm.ini file on the installation path, and set the variable event_log to ON in {{{[logging]}}} section. A new logging file will be generated with each new inspection.
+The application has a logging feature. To enable it, go to elm.ini file on the installation path, and set the variable event_log to ON in logging section. A new logging file will be generated with each new inspection.
 
 ----
 
 _Be aware of the fact that this app was made with extremely limited resources, and therefore could only be checked against a few brand cars. Thus, it is quite likely to fail while testing against some kind of vehicles._
 
-_Any doubt, improvement or bug to report, let us know, please, hereby or at www.karmind.com. We will be pleased of hearing from you._
+_Any doubt, improvement or bug to report, let us know, please, hereby or at [http://www.karmind.com karmind.com]. We will be pleased of hearing from you._
 
 Good day!
