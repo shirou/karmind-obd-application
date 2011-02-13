@@ -5,13 +5,11 @@
 
 A quick-guide for the app will be described below.
 
-Provided with autoinstall, this GUI application allows through OBD (On Board Diagnostics) interface perform checking, clearing and sampling of a few electronic parameters in a given vehicle.
-
-With logging facilites included, output files of any action previously executed may be uploaded to your personal space in www.karmind.com in order to have it stored and get it reviewed at any time. 
+Provided with autoinstall, this GUI application allows through OBD (On Board Diagnostics) interface perform checking, clearing and sampling of a few electronic parameters in a given vehicle.With logging facilites included, output files of any action previously executed may be uploaded to your personal space in www.karmind.com in order to have it stored and get it reviewed at any time. 
 
 For further information about what we are working on currently, check www.karmind.com
 
-Disclaimer: This is free software. If source code is not modified, there is no way at all of leading to harm a vehicle. Anyway, there is absolutely no warranty for any action performed by the user.
+_*Disclaimer* This is free software. If source code is not modified, there is no way at all of leading to harm a vehicle. Anyway, there is absolutely no warranty for any action performed by the user._
 
 = Details =
 
@@ -26,7 +24,7 @@ Let´s go step by step.
 *_App modes_*
   * Being built.
 
-This app was made with extremely limited resources and therefore could only be checked against a few brand cars. Thus, it is very likely to fail while testing against some vehicles. 
+This app was made with extremely limited resources and therefore could only be checked against a few brand cars. Thus, it is quite likely to fail while testing against some kind of vehicles. 
 
 Any doubt, improvement or bug to report, let us know, please, hereby or at www.karmind.com. We will be pleased of hearing from you.
 
