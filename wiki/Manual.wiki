@@ -49,6 +49,12 @@ Let´s go step by step.
   * This mode allows to sample some cool parameters, such as RPM, throttle position, speed and others while driving. After getting that , the data it may be uploaded to your personal space on www.karmind.com, to have it stored and review some awesome performance graphics.
 
 
+*_Tips_*
+
+If the app is not able to open the connection with the car through ELM-327, perhaps the polling method to get the ELM port is not working properly on your device. If so, set the variable comport in the [elm] section of the file elm.ini (located on the installation path) to the appropriate value.
+
+The application has a logging feature. To enable it, go to elm.ini file on the installation path, and set the variable event_log to ON in [logging] section. A new logging file will be generated with each new inspection.
+
 
 Be aware of the fact that this app was made with extremely limited resources, and therefore could only be checked against a few brand cars. Thus, it is quite likely to fail while testing against some kind of vehicles. 
 
