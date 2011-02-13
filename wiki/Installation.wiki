@@ -1,4 +1,5 @@
 #summary How to install Karmind-obd-application.
+#labels Phase-Deploy,Featured
 
 = Introduction =
 
@@ -19,7 +20,7 @@ Prerequisites: None, except having about 20 MB of free space on your hard disk.
   * Select a destination folder, or leave the default path to install.
   * That´s all. The app is ready to be used.
 
-[http://code.google.com/p/rs232-obd-sim/wiki/Manual Go back to Manual].
+[http://code.google.com/p/karmind-obd-application/wiki/Manual Go back to Manual].
 
 Be aware of the fact that this app was made with extremely limited resources, and therefore could only be checked against a few brand cars. Thus, it is quite likely to fail while testing against some kind of vehicles. 
 
