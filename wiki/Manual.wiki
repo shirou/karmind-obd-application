@@ -19,7 +19,7 @@ Let´s go step by step.
   * Perform a checkout from the SVN in Downloads tab, in order to install the app. 
 
 *_Installation_*
-  * No prerequisites needed. [https://code.google.com/p/karmind-obd-application/wiki/Installation Setup]
+  * No prerequisites needed. [https://code.google.com/p/karmind-obd-application/wiki/Installation Further information about setup].
 
 *_Execute application_*
   * Being built.
