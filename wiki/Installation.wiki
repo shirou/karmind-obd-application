@@ -1,13 +1,28 @@
-#summary One-sentence summary of this page.
+#summary How to install Karmind-obd-application.
 
 = Introduction =
 
-Add your content here.
+The setup process is quite simple, since it is automatic and only involves executing the installator file karmind_installer.exe.
 
+_*Disclaimer* This is free software. If source code is not modified, there is no way at all of leading to harm a vehicle. Anyway, there is absolutely no warranty for any action performed by the user of the provided software._
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Prerequisites: None, except having about 20 MB of free space on your hard disk.
+
+*_SVN checkout_*
+  * Perform a checkout from the SVN in Downloads tab, in order to install the app. 
+
+*_Installation_*
+  * Execute karmind_installer.exe. 
+  * Accept the terms of the license agreement.
+  * Select a destination folder, or leave the default path to install.
+  * That´s all. The app is ready to be used.
+
+[http://code.google.com/p/rs232-obd-sim/wiki/Manual Go back to Manual].
+
+Be aware of the fact that this app was made with extremely limited resources, and therefore could only be checked against a few brand cars. Thus, it is quite likely to fail while testing against some kind of vehicles. 
+
+Any doubt, improvement or bug to report, let us know, please, hereby or at www.karmind.com. We will be pleased of hearing from you.
+
+Good day!
