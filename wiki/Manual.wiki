@@ -27,7 +27,7 @@ Let´s go step by step.
 *_App modes_*
   * Being built.
 
-This app was made with extremely limited resources and therefore could only be checked against a few brand cars. Thus, it is quite likely to fail while testing against some kind of vehicles. 
+Be aware of the fact that this app was made with extremely limited resources, and therefore could only be checked against a few brand cars. Thus, it is quite likely to fail while testing against some kind of vehicles. 
 
 Any doubt, improvement or bug to report, let us know, please, hereby or at www.karmind.com. We will be pleased of hearing from you.
 
