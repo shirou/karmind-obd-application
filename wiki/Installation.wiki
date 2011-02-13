@@ -9,7 +9,7 @@ _*Disclaimer* This is free software. If source code is not modified, there is no
 
 = Details =
 
-Prerequisites: None, except having about 20 MB of free space on your hard disk.
+Prerequisites: None, except having about 20 MB of free space on your hard disk. OS supported: Windows, Unix.
 
 *_SVN checkout_*
   * Perform a checkout from the SVN in Downloads tab, in order to install the app. 
@@ -18,9 +18,13 @@ Prerequisites: None, except having about 20 MB of free space on your hard disk.
   * Execute karmind_installer.exe. 
   * Accept the terms of the license agreement.
   * Select a destination folder, or leave the default path to install.
-  * That´s all. The app is ready to be used.
+  * That´s all. The app is ready to be used and the Karmind app menu was added to your start menu.
 
 [http://code.google.com/p/karmind-obd-application/wiki/Manual Go back to Manual].
+
+*_Uninstall._*
+  * Just in the unlikely case you want to do so. Click on uninstall app on the Karmind app start menu, and confirm the installation path.
+
 
 Be aware of the fact that this app was made with extremely limited resources, and therefore could only be checked against a few brand cars. Thus, it is quite likely to fail while testing against some kind of vehicles. 
 
