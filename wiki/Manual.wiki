@@ -51,9 +51,9 @@ _Sampler_
 
 *_Tips_*
 
-If the app is not able to open the connection with the car through ELM-327, perhaps the polling method to get the ELM port is not working properly on your device. If so, set the variable comport in the [elm] section of the file elm.ini (located on the installation path) to the appropriate value.
+If the app is not able to open the connection with the car through ELM-327, perhaps the polling method to get the ELM port is not working properly on your device. If so, set the variable comport in the {{{[elm]}}} section of the file elm.ini (located on the installation path) to the appropriate value.
 
-The application has a logging feature. To enable it, go to elm.ini file on the installation path, and set the variable event_log to ON in [logging] section. A new logging file will be generated with each new inspection.
+The application has a logging feature. To enable it, go to elm.ini file on the installation path, and set the variable event_log to ON in {{{[logging]}}} section. A new logging file will be generated with each new inspection.
 
 ----
 
