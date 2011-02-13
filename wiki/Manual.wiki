@@ -7,6 +7,8 @@ A quick-guide for the app will be described below.
 
 Provided with autoinstall, this GUI application allows through OBD (On Board Diagnostics) interface perform checking, clearing and sampling of a few electronic parameters in a given vehicle.With logging facilites included, output files of any action previously executed may be uploaded to your personal space in www.karmind.com in order to have it stored and get it reviewed at any time. 
 
+SO supported: Windows, Unix.
+
 For further information about what we are working on currently, check www.karmind.com
 
 _*Disclaimer* This is free software. If source code is not modified, there is no way at all of leading to harm a vehicle. Anyway, there is absolutely no warranty for any action performed by the user of the provided software._
@@ -22,7 +24,13 @@ Let´s go step by step.
   * No prerequisites needed. [https://code.google.com/p/karmind-obd-application/wiki/Installation Further information about setup].
 
 *_Execute application_*
-  * Being built.
+  * Assuming you have followed the instructions above, the karmind app is already installed in your computer, on the location you selected during the installation process. Thus, you may launch the app from your start menu, browsing to the karmind app and clicking on the executable.
+  * At this point, Karmind app window raises, with three available options to perform. Before executing any task, following requirements are needed:
+  # The ELM327 unit you will use with Karmind software altogheter, must have been installed and tested previously in the same computer as Karmind app.
+  # The ELM 327 hardware has to be connected in both sides, the vehicle and the computer.
+  # For some car brands, the car engine must be started.
+
+  Not following earlier requirements will lead to Karmind app malfunction and even crash.
 
 *_App modes_*
   * Being built.
