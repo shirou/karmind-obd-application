@@ -123,7 +123,7 @@ _Muestreo (Sampler)_
 
 *_Consejos_ * 
 
-Si la aplicación no es capaz de abrir la conexión con el coche a través de ELM-327, tal vez el método de sondeo para obtener el puerto ELM no funciona correctamente en el dispositivo. Si es así, establece la variable comport en la sección elm del archivo karmind.ini(situado en la ruta de instalación) al valor adecuado.
+Si la aplicación no es capaz de abrir la conexión con el coche a través de ELM-327, tal vez el método de sondeo para obtener el puerto ELM no funciona correctamente en el dispositivo. Si es así, establece la variable comport en la sección elm del archivo karmind.ini (situado en la ruta de instalación) al valor adecuado.
 
 La aplicación tiene una función de logging. Para activarla, ve al archivo karmind.ini en la ruta de instalación, y establecer la variable de event_log en ON en la sección de registro. Un nuevo archivo de registro se genera con cada nueva inspección.
 
