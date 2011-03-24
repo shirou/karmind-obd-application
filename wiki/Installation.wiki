@@ -53,7 +53,7 @@ Requisitos: Ninguno, excepto cerca de 20 MB de espacio libre en el disco duro. S
 
 *_Instalación_*
    * Ejecutar karmind_installer.exe.
-   * Aceptar los términos del contrato de licencia.
+   * Acepta los términos del contrato de licencia.
    * Seleccione una carpeta de destino, o dejar la ruta de acceso predeterminada para instalar.
    * Eso es todo. La aplicación está lista para ser utilizada y el menú de la aplicación Karmind se agrega a tu menú de inicio.
 
@@ -63,7 +63,7 @@ Requisitos: Ninguno, excepto cerca de 20 MB de espacio libre en el disco duro. S
    * Sólo en el improbable caso de que desees hacerlo... Haz clic en desinstalar la aplicación en el menú de inicio Karmind aplicación, y confirma la ruta de instalación.
 
 ----
-Sé consciente de que esta aplicación se realizó con recursos muy limitados, por lo que sólo pudo ser testeado con unas cuantas marcas de coches. Por lo tanto, es muy probable que falle durante su uso en algunos otros._
+_Sé consciente de que esta aplicación se realizó con recursos muy limitados, por lo que sólo pudo ser testeado con unas cuantas marcas de coches. Por lo tanto, es muy probable que falle durante su uso en algunos otros._
 
 _Cualquier duda, mejora o error que detectes, háznoslo saber, por favor, por este medio o en www.karmind.com. Estaremos encantados de escucharte._
 
