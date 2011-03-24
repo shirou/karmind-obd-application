@@ -107,14 +107,14 @@ Vayamos paso a paso.
 
 * _ Modos de la aplicación _ *
   La aplicación Karmind permite ejecutar tres modos diferentes para extraer información del vehículo a través de la interfaz OBD. En caso de estar interesado en obtener un conocimiento más profundo sobre los fundamentos de los protocolos de diagnóstico a bordo, echar un vistazo a las normas internacionales ISO-15031-5 e ISO-15031-6.
-  Tras la ejecución de cualquier modo, un archivo de salida se genera y se guarda en disco, para después poder subirlo a tu espacio privado en [karmind.com http://www.karmind.com]. Los modos disponibles se describen a continuación.
+  Tras la ejecución de cualquier modo, un archivo de salida se genera y se guarda en disco, para después poder subirlo a tu espacio privado en [http://www.karmind.com karmind.com]. Los modos disponibles se describen a continuación.
 
 _Comprobación (Check) _
   * En aprox. un minuto, la aplicación obtiene una instantánea de los parámetros identificadores más comunes (PID) de tu vehículo, incluyendo la invocación de los modos de servicio de $03 y $07 (muestra los códigos de diagnóstico de problemas, DTC, pendientes y almacenados), con el fin de buscar cualquier cuestión relativa a problemas en la electrónica.
   Después de conseguir la información, puede ser subida a tu espacio personal en [http://www.karmind.com karmind.com], para tenerla almacenada y poder buscar el significado de cualquier DTC que aparezca en tu coche en el apartado DTCs de la web.
 
 _Borrado (Delete)_
-  * En caso de cualquier problema detectado en el modo anterior que haya provocado que la Lámpara Indicadora de Fallo (MIL) se encienda, o cualquier otro DTC que no haya provocado este efecto, se puede invocar la limpieza de errores y testigos mediante estemodo de funcionamiento. Ten en cuenta que si había alguna problema para que apareciesen DTCs, y no se solventa, aunque se borren volverán a aparecer.
+  * En caso de cualquier problema detectado en el modo anterior que haya provocado que la Lámpara Indicadora de Fallo (MIL) se encienda, o cualquier otro DTC que no haya provocado este efecto, se puede invocar la limpieza de errores y testigos mediante este modo de funcionamiento. Ten en cuenta que si había alguna problema para que apareciesen DTCs, y no se solventa, aunque se borren volverán a aparecer.
   Por supuesto, esta acción se registra en un archivo, y también se puede almacenar en tu espacio personal en [http://www.karmind.com karmind.com].
 
 _Muestreo (Sampler)_
