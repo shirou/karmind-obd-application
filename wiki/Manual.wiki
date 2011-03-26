@@ -100,7 +100,7 @@ Vayamos paso a paso.
 
   * En este punto, se lanza la aplicación Karmind, con sus tres opciones disponibles. Antes de ejecutar cualquier tarea, se necesitan los siguientes requisitos:
   # La unidad ELM327 que vas a utilizar con el software Karmind, debe haber sido instalado y probado previamente en el mismo equipo que la aplicación Karmind.
-  # El ELM 327 de hardware tiene que estar conectado en ambos extremos, el vehículo y el ordenador.
+  # El ELM 327 tiene que estar conectado en ambos extremos (el vehículo y el ordenador).
   # Para algunas marcas de coches, el motor del coche debe ser arrancado.
 
   _No obedecer los requisitos anteriores dará lugar a un mal funcionamiento de la aplicación Karmind._
