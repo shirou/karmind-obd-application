@@ -7,20 +7,23 @@
 
 The setup process is quite simple, since it is automatic and only involves executing the installator file karmind_installer.exe.
 
+It is also possible to run directly from source code. Depending on your Python environment, you could need to install some external packages. Then, run directly karmind_app.py.
+
 _*Disclaimer* This is free software. If source code is not modified, there is no way at all of leading to harm a vehicle. Anyway, there is absolutely no warranty for any action performed by the user of the provided software._
 
 = Details =
 
 Prerequisites: None, except having about 20 MB of free space on your hard disk. OS supported: Windows, Linux.
 
-*_SVN checkout_*
-  * Perform a checkout from the SVN in Downloads tab, in order to install the app. 
+*_ Download _*
+  * Download the installer (Windows) or the source code package (Windows, Linux) from the Downloads tab.
 
 *_Installation_*
   * Execute karmind_installer.exe. 
   * Accept the terms of the license agreement.
   * Select a destination folder, or leave the default path to install.
   * That´s all. The app is ready to be used and the Karmind app menu is added to your start menu.
+
 
 [http://code.google.com/p/karmind-obd-application/wiki/Manual Go back to Manual].
 
@@ -40,7 +43,7 @@ Good day!
 
 = Introducción =
 
-El proceso de instalación es bastante simple, ya que es automático y sólo consiste en ejecutar el archivo instalador karmind_installer.exe (para Windows). En el caso de linux, habría que descargar los ficheros del cógido fuente, instalar los paquetes que falten y ejecutar karmind_app.py.
+El proceso de instalación es bastante simple, ya que es automático y sólo consiste en ejecutar el archivo instalador karmind_installer.exe (para Windows). En el caso de Linux, descargar los archivos del cógido fuente, instalar los paquetes que falten y ejecutar karmind_app.py.
 
 _*Advertencia* Este software es libre. Si el código fuente no se modifica, no hay forma posible de causar daños a un vehículo. De todos modos, no hay absolutamente ninguna garantía, por cualquier acción realizada por el usuario del software._
 
@@ -49,13 +52,14 @@ _*Advertencia* Este software es libre. Si el código fuente no se modifica, no h
 Requisitos: Ninguno, excepto cerca de 20 MB de espacio libre en el disco duro. Sistemas operativos soportados: Windows, Linux.
 
 * _SVN checkout_ *
-   * Descarga el fichero de instalación o el código fuente en la pestaña Downloads.
+   * Descarga el archivo de instalación (windows) o el código fuente (Windows, Linux) en la pestaña Downloads.
 
 *_Instalación_*
    * Ejecutar karmind_installer.exe.
    * Acepta los términos del contrato de licencia.
    * Seleccione una carpeta de destino, o dejar la ruta de acceso predeterminada para instalar.
    * Eso es todo. La aplicación está lista para ser utilizada y el menú de la aplicación Karmind se agrega a tu menú de inicio.
+
 
 [http://code.google.com/p/karmind-obd-application/wiki/Manual Volver a Manual].
 
