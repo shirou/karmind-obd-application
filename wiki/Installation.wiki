@@ -16,7 +16,15 @@ _*Disclaimer* This is free software. If source code is not modified, there is no
 Prerequisites: None, except having about 20 MB of free space on your hard disk. OS supported: Windows, Linux.
 
 *_ Download _*
-  * Download the installer (Windows) or the source code package (Windows, Linux) from the Downloads tab.
+  * Download the installer (Windows).
+
+  * You can also download the source code package (Windows, Linux) from the Downloads tab. In this case, the application requires wxPython and pyserial.
+
+    To install, you can use:
+
+{{{
+$ sudo apt-get install python-wxgtk2.8 python-serial
+}}}
 
 *_Installation_*
   * Execute karmind_installer.exe. 
